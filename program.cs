@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 
 
-namespace Para1
+namespace Zadanie
 {
     internal static class Program
     {
